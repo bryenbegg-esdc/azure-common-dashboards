@@ -1,0 +1,3 @@
+- [Management Groups](https://portal.azure.com/#blade/Microsoft_Azure_ManagementGroups/ManagementGroupBrowseBlade/MGBrowse_overview)
+- [Subscriptions](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+- [Resource Groups](https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups)
