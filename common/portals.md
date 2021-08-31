@@ -1,7 +1,7 @@
 - [Azure Portal](https://portal.azure.com/)
 - [Azure Preview Portal](https://preview.portal.azure.com/#home)
 - [Azure Status](https://status.azure.com/en-ca/status)
-- [AAD -Admin Portal](https://aad.portal.azure.com)
+- [AAD - Admin Portal](https://aad.portal.azure.com)
 - [AAD - User Security - My Signins](https://mysignins.microsoft.com/security-info)
 - [AAD - Endpoint Manager](https://devicemanagement.portal.azure.com/#home)
 - [AAD - My Apps](https://myapplications.microsoft.com/)
