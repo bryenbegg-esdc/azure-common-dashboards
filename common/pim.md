@@ -1,0 +1,4 @@
+- [PIM](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/quickStart)
+- [PIM - My AAD roles](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/ActivationMenuBlade/aadmigratedroles)
+- [PIM - My RBAC roles](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/ActivationMenuBlade/azurerbac)
+- [PIM - Manage my resource's PIM](https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/azurerbac)
