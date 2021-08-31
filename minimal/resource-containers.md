@@ -1,0 +1,1 @@
+[MGs](https://portal.azure.com/#blade/Microsoft_Azure_ManagementGroups/ManagementGroupBrowseBlade/MGBrowse_overview) - [Subs](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) - [RGPs](https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups)
